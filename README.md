@@ -13,21 +13,21 @@ This project implements a genetic algorithm to solve mathematical equations wher
 
 1. Clone the repository:
 
-   \`\`\`bash
+   ```bash
    git clone https://github.com/yourusername/genetic-equation-solver.git
-   \`\`\`
+   ```
 
 2. Navigate to the project directory:
 
-   \`\`\`bash
+   ```bash
    cd genetic-equation-solver
-   \`\`\`
+   ```
 
 3. Run the solver for different levels:
 
-   \`\`\`bash
+   ```bash
    python genetic_solver.py
-   \`\`\`
+   ```
 
    The solver will process input files in the \`level_1\`, \`level_2\`, and \`level_3\` folders and output the results.
 
@@ -41,9 +41,9 @@ The input equations should be provided in a specific format:
 
 Example:
 
-   \`\`\`plaintext
+   ```plaintext
    SEND + MORE = MONEY
-   \`\`\`
+   ```
 
 ## Output
 
@@ -51,4 +51,4 @@ The program will output the solution to each equation or indicate if there is no
 
 ## Examples
 
-Check the \`level_1\`, \`level_2\`, and \`level_3\` folders for example input files and corresponding output files.
+Check the `level_1`, `level_2`, and `level_3` folders for example input files and corresponding output files.
