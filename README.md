@@ -14,22 +14,22 @@ This project implements a genetic algorithm to solve mathematical equations wher
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/genetic-equation-solver.git
+   git clone https://github.com/phdangg/cryptarithmetic_genetic_search.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd genetic-equation-solver
+   cd cryptarithmetic_genetic_search
    ```
 
 3. Run the solver for different levels:
 
    ```bash
-   python genetic_solver.py
+   python main.py
    ```
 
-   The solver will process input files in the \`level_1\`, \`level_2\`, and \`level_3\` folders and output the results.
+   The solver will process input files in the `level_1`, `level_2`, and `level_3` folders and output the results.
 
 ## Input Format
 
