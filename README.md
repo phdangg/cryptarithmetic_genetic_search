@@ -1,8 +1,8 @@
-# Genetic Algorithm Equation Solver
+# Genetic Cryptarithmetic Solver
 
 ## Overview
 
-This project implements a genetic algorithm to solve mathematical equations where each letter represents a digit, and the goal is to find a digit assignment that satisfies the equation. The genetic algorithm uses a population-based approach to evolve potential solutions over generations.
+This project implements a genetic algorithm to solve a Cryptarithmetic puzzle where each letter represents a digit, and the goal is to find a digit assignment that satisfies the equation. The genetic algorithm uses a population-based approach to evolve potential solutions over generations.
 
 ## Requirements
 
